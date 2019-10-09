@@ -2,4 +2,8 @@
 这是第二次提交的
 这是第三次提交的
 这厮我从远程仓库上编辑好了的
+<<<<<<< HEAD
 我在eclispse上提交
+=======
+在浏览器上修改文件，测试版本冲突
+>>>>>>> branch 'master' of https://github.com/fuyulong6059/test1.git
